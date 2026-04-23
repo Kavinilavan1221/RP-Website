@@ -38,7 +38,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
               <Dog size={24} />
             </div>
             <span className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-primary-400 dark:from-primary-400 dark:to-primary-200">
-              CanineAI
+              Happy Pup
             </span>
           </a>
 

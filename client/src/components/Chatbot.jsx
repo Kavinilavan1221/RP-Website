@@ -5,7 +5,7 @@ import { MessageCircle, X, Send, Dog } from 'lucide-react';
 const Chatbot = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { role: 'ai', text: "Hello! I'm your CanineAI Assistant. I can help you with Breed Detection, Growth Monitoring, and Skin Disease Detection. How can I help you today?" }
+    { role: 'ai', text: "Hello! I'm your Happy Pup Assistant. I can help you with Breed Detection, Growth Monitoring, and Skin Disease Detection. How can I help you today?" }
   ]);
   const [input, setInput] = useState('');
 

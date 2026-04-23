@@ -19,7 +19,7 @@ const Footer = () => {
           {/* Brand Info */}
           <div>
             <a href="#" className="inline-block">
-              <h4 className="text-xl font-bold mb-4 text-primary-500 hover:text-primary-400 transition-colors">CanineAI</h4>
+              <h4 className="text-xl font-bold mb-4 text-primary-500 hover:text-primary-400 transition-colors">Happy Pup</h4>
             </a>
             <p className="text-slate-400 text-sm leading-relaxed max-w-xl text-justify">
               Empowering dog owners through smart technology and AI-driven monitoring. Our research focuses on Breed Detection, Growth Monitoring, and Skin Disease Detection with Treatment Suggestions to provide real-time health insights for domestic dogs. By utilizing multi-modal data analysis and advanced deep learning algorithms, we ensure high accuracy in identifying breed-specific traits and early health warning signs. Our platform is designed to bridge the gap between traditional veterinary knowledge and modern, accessible technology, allowing for continuous care outside of clinical settings. Ultimately, our goal is to improve the quality of life and longevity of your canine companions through data-driven decisions and personalized health recommendations.
