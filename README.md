@@ -27,7 +27,7 @@ Our research is divided into three core components, each led by dedicated team m
 ### Team Members
 - **Sowmiya.S** (Member 1 - IT22225924) - *Growth Monitoring*
 - **Sakithiyan.C** (Member 2 - IT22329042) - *Breed Detection*
-- **Kavinilavan.U** (Member 3 - IT22124944) - *Skin Disease Detection & Treatment*
+- **Kavinilavan.U** (Member 3 - IT22124944) - *Skin Disease Detection & Treatment Suggestions*
 
 ## 📦 Getting Started
 
