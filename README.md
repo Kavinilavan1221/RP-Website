@@ -1,6 +1,6 @@
-# CanineAI - Advanced AI Dog Monitoring Research Project
+# Happy Pup - Advanced AI Dog Monitoring Research Project
 
-CanineAI is a cutting-edge research project dedicated to improving the health and well-being of domestic dogs through state-of-the-art Artificial Intelligence. Our platform provides real-time monitoring and advanced diagnostics to empower dog owners with data-driven insights.
+Happy Pup is a cutting-edge research project dedicated to improving the health and well-being of domestic dogs through state-of-the-art Artificial Intelligence. Our platform provides real-time monitoring and advanced diagnostics to empower dog owners with data-driven insights.
 
 ## 🚀 Key Research Pillars
 
@@ -61,4 +61,4 @@ Our research is divided into three core components, each led by dedicated team m
 For any research inquiries or collaborations, please visit the contact section on our website or reach out via our official team emails.
 
 ---
-© 2025 CanineAI Research Team. All Rights Reserved.
+© 2025 Happy Pup Research Team. All Rights Reserved.
